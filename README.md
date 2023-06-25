@@ -1,5 +1,5 @@
 # Docker + nginx + MySQL + PhpMyAdmin
-Dockerの練習用リポジトリ
+Dockerの練習用リポジトリ  
 参考にしたQiita:<https://qiita.com/takusan64/items/4d622ce1858c426719c7>
 
 ## How to use
